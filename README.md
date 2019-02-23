@@ -4,7 +4,7 @@
 
 ### DownloadComponent
 
-<grt-download (click)="asyncFunction()">Download</grt-download>
+`<grt-download (click)="asyncFunction()">Download</grt-download>`
 
 This component has 3 methods that represents 3 states:
 * activate()
