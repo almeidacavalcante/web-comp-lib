@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "web-comp-lib": [
+        "dist/web-comp-lib"
+      ],
+      "web-comp-lib/*": [
+        "dist/web-comp-lib/*"
+      ]
+    }
   }
 }
