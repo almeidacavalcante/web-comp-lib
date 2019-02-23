@@ -1,4 +1,17 @@
-# CompLib
+# CompLib PROJECT!
+
+## Components
+
+### DownloadComponent
+
+<grt-download (click)="asyncFunction()">Download</grt-download>
+
+This component has 3 methods that represents 3 states:
+* activate()
+* validate()
+* restore()
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
