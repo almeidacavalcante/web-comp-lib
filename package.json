@@ -14,7 +14,7 @@
     "copy-readme": "cp \\README.md .\\dist\\web-comp-lib",
     "copy-files": "npm run copy-license && npm run copy-readme",
     "pack": "npm run build-all && npm run copy-files && npm run npm-pack",
-    "pack-publish": "npm run pack && npm publish ./dist/web-comp-lib/web-comp-lib-0.1.1.tgz"
+    "pack-publish": "npm run pack && npm publish ./dist/web-comp-lib/web-comp-lib-0.1.2.tgz"
   },
   "private": false,
   "dependencies": {
